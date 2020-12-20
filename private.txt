@@ -1,0 +1,12 @@
+private files
+
+1. aoole.html (in private folder)
+2. node.js (in private folder)
+3. style.css (in private folder)
+
+private folder
+
+1. e?
+2. a?o?e
+
+* ? is private.
